@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #000;
+}
+.main{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://imgur.com/RurqKDM");
+}
